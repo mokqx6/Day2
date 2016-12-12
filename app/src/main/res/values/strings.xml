@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Day2</string>
+    <string name="startButton">startButton</string>
+    <string name="stopButton">stopButton</string>
+    <string name="bindButton">bindButton</string>
+    <string name="unbindButton">unbindButton</string>
+</resources>
